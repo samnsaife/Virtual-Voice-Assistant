@@ -26,3 +26,9 @@ This project demonstrates the integration of **speech recognition, natural langu
 - pyttsx3
 - WolframAlpha API
 - Wikipedia API
+
+---
+
+## Author
+
+Sami Noor Saifi
